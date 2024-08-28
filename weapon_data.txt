@@ -1,0 +1,404 @@
+Iron Sword	Sword	10	5	3	2	1	Slash	Deals moderate damage with a wide arc	21	50
+Mystic Staff	Staff	2	3	4	1	15	Fireball	Casts a fireball that causes burning	25	34
+Elven Bow	Bow	7	2	5	8	4	Rapid Shot	Fires multiple arrows quickly	26	29
+Dwarven Axe	Axe	15	10	2	3	2	Earthquake	Causes a ground shockwave for extra damage	32	8
+Shadow Dagger	Dagger	4	1	6	9	5	Stealth Strike	Allows for a surprise attack with increased crit chance	25	34
+Flame Sword	Sword	12	4	5	3	2	Blaze	Engulfs the sword in flames for extra damage	26	29
+Crystal Staff	Staff	3	2	5	2	14	Ice Shard	Fires a shard of ice that slows the target	26	29
+Thunder Bow	Bow	6	3	7	7	3	Thunderbolt	Strikes the target with a bolt of lightning	26	29
+War Axe	Axe	18	12	1	2	1	Cleave	Delivers a powerful cleaving strike	34	5
+Poison Dagger	Dagger	5	2	7	8	3	Venom Strike	Injects poison into the target	25	34
+Silver Sword	Sword	8	6	4	3	2	Lunar Slash	Deals extra damage during the night	23	42
+Arcane Staff	Staff	1	4	6	1	16	Arcane Blast	Unleashes a blast of arcane energy	28	24
+Hunting Bow	Bow	5	3	8	6	3	Focused Shot	Fires a highly accurate shot	25	34
+Battle Axe	Axe	14	11	3	3	1	Smash	Delivers a crushing blow	32	8
+Shadow Blade	Dagger	6	1	7	10	2	Backstab	Deals extra damage from behind	26	29
+Dragon Sword	Sword	13	5	3	3	4	Dragon Breath	Unleashes a fiery breath attack	28	24
+Elder Staff	Staff	2	5	4	2	13	Heal	Heals an ally or self over time	26	29
+Long Bow	Bow	6	2	6	9	2	Piercing Shot	Fires an arrow that pierces through targets	25	34
+Viking Axe	Axe	17	9	2	2	3	Fury	Causes the user to go into a rage	33	6
+Assassin Dagger	Dagger	5	1	8	10	3	Silent Kill	Deals a silent deadly strike	27	26
+Golden Sword	Sword	9	6	5	2	3	Shine	Blinds enemies temporarily	25	34
+Storm Staff	Staff	3	4	5	1	15	Storm Call	Calls down a storm to damage enemies	28	24
+Cross Bow	Bow	8	3	7	5	2	Quick Reload	Fires bolts in rapid succession	25	34
+Guardian Axe	Axe	16	12	1	2	2	Guard	Increases defense for a short time	33	6
+Blood Dagger	Dagger	6	2	6	7	4	Bloodlust	Gains health from dealing damage	25	34
+Knight Sword	Sword	11	7	4	2	2	Charge	Charges at the enemy with increased speed	26	29
+Phoenix Staff	Staff	2	4	6	3	14	Phoenix Flame	Revives the user upon defeat once	29	21
+Hunter Bow	Bow	7	3	5	8	3	Snare	Traps the target in place	26	29
+Reaper Axe	Axe	18	11	2	1	3	Reap	Deals massive damage to low-health targets	35	4
+Stealth Dagger	Dagger	4	2	7	10	3	Invisibility	Renders the user invisible for a short time	26	29
+Steel Sword	Sword	10	8	3	2	2	Steel Slash	Delivers a heavy powerful slash	25	34
+Mystic Wand	Staff	1	3	6	2	16	Magic Missile	Fires a guided missile of magic energy	28	24
+Composite Bow	Bow	6	4	6	7	3	Explosive Arrow	Fires an arrow that explodes on impact	26	29
+Barbarian Axe	Axe	17	10	3	2	1	Berserk	Increases strength but lowers defense	33	6
+Venom Dagger	Dagger	5	3	7	8	4	Toxic Strike	Deals damage over time with poison	27	26
+Sword of Light	Sword	14	6	4	2	2	Light Beam	Emits a beam of light that damages enemies	28	24
+Healer Staff	Staff	1	5	5	3	15	Heal Pulse	Sends a healing pulse to allies	29	21
+Ranger Bow	Bow	8	2	7	6	3	Multishot	Fires multiple arrows at once	26	29
+Executioner Axe	Axe	19	11	2	1	3	Execute	Instantly kills low-health targets	36	3
+Silent Blade	Dagger	6	1	9	9	2	Sneak Attack	Deals critical damage from stealth	27	26
+Broad Sword	Sword	12	7	3	3	1	Cross Slash	Attacks with a cross-shaped slash	26	29
+Frost Staff	Staff	2	4	5	2	15	Frost Nova	Freezes enemies in place temporarily	28	24
+War Bow	Bow	7	3	6	7	2	Arrow Rain	Rains arrows down on enemies	25	34
+Battle Dagger	Dagger	4	2	8	9	2	Ambush	Deals extra damage from behind	25	34
+Ancient Sword	Sword	13	5	4	2	3	Ancient Power	Unleashes ancient energy to damage enemies	27	26
+Solar Staff	Staff	1	5	6	3	14	Sunburst	Deals damage in a wide area	29	21
+Precision Bow	Bow	6	4	7	6	2	Precision Shot	Highly accurate and damaging shot	25	34
+Great Axe	Axe	18	10	2	2	3	Great Cleave	Wide powerful attack	35	4
+Tactical Dagger	Dagger	5	3	7	8	3	Disarm	Disarms the target temporarily	26	29
+Blazing Sword	Sword	14	5	5	2	3	Inferno	Engulfs enemies in fire	29	21
+Rune Staff	Staff	2	4	5	2	16	Rune Blast	Deals damage with runic energy	29	21
+Warrior Bow	Bow	8	3	6	6	3	Power Shot	Delivers a powerful shot	26	29
+Crusher Axe	Axe	20	11	1	1	2	Crush	Delivers a crushing blow	35	4
+Quick Dagger	Dagger	4	1	9	10	2	Quick Strike	Fast and agile attack	26	29
+Legendary Sword	Sword	15	7	4	2	2	Legend Strike	Unleashes legendary power	30	20
+Sorcerer Staff	Staff	1	5	6	2	15	Sorcerer's Flame	Deals continuous fire damage	29	21
+Swift Bow	Bow	7	2	8	7	2	Swift Shot	Fires arrows rapidly	26	29
+Hallowed Axe	Axe	18	12	2	2	3	Hallowed Strike	Deals holy damage	37	2
+Silent Dagger	Dagger	5	1	8	9	3	Silent Kill	Deals a silent deadly strike	26	29
+Titan Sword	Sword	16	6	4	3	1	Titan Smash	Unleashes a powerful smash	30	20
+Mystic Rod	Staff	2	3	7	2	15	Magic Burst	Deals burst damage	29	21
+Longshot Bow	Bow	6	3	9	6	2	Longshot	Highly accurate long-range shot	26	29
+Heavy Axe	Axe	20	10	2	1	2	Heavy Strike	Deals massive damage	35	4
+Shadow Knife	Dagger	5	2	8	10	2	Shadow Strike	Deals extra damage from the shadows	27	26
+Sun Sword	Sword	14	5	6	2	3	Sunbeam	Emits a blinding beam	30	20
+Wizard Staff	Staff	1	5	6	2	16	Arcane Wave	Deals continuous arcane damage	30	20
+Wind Bow	Bow	8	3	7	5	2	Wind Arrow	Fires an arrow that pushes enemies back	25	34
+Thunder Axe	Axe	17	11	3	2	3	Thunder Strike	Deals thunder damage	36	3
+Stealth Knife	Dagger	4	1	8	10	2	Stealth Kill	Allows for a silent deadly strike	25	34
+Blade of Dawn	Sword	15	6	5	3	2	Dawn Slash	Unleashes a slash with the power of dawn	31	14
+Mystic Scepter	Staff	2	4	6	3	14	Scepter Blast	Deals damage with magic energy	29	21
+Hunter's Bow	Bow	7	2	8	6	3	Tracking Shot	Fires an arrow that tracks the target	26	29
+Savage Axe	Axe	20	12	1	2	2	Savage Strike	Delivers a wild powerful strike	37	2
+Silent Knife	Dagger	5	1	8	10	3	Silent Slash	Deals critical damage	27	26
+Royal Sword	Sword	16	7	4	3	2	Royal Slash	Delivers a powerful royal slash	32	8
+Frost Blade	Sword	13	4	6	3	2	Frost Slash	Freezes enemies on hit	28	25
+Celestial Staff	Staff	1	5	5	2	16	Starfall	Causes stars to fall on enemies	29	18
+Venom Bow	Bow	6	2	7	8	3	Poison Arrow	Fires a poisoned arrow	26	24
+Berserker Axe	Axe	19	10	2	1	3	Berserk Fury	Increases strength but lowers defense	35	7
+Phantom Dagger	Dagger	5	1	9	9	2	Phantom Strike	Deals critical damage	26	25
+Thunder Sword	Sword	12	6	4	3	2	Thunder Clap	Emits a thunderous shockwave	27	22
+Nature Staff	Staff	2	4	6	2	14	Vine Whip	Entangles and damages enemies	28	19
+Falcon Bow	Bow	7	3	7	6	3	Falcon Shot	Fires a high-speed arrow	26	24
+Gladiator Axe	Axe	17	9	3	2	1	Gladiator Smash	Delivers a powerful smash	32	12
+Ninja Dagger	Dagger	6	1	9	10	2	Ninja Strike	Fast and deadly strike	28	17
+Knight's Blade	Sword	11	7	5	3	2	Shield Bash	Knocks back enemies with a shield	28	19
+Arcane Rod	Staff	1	4	6	3	15	Arcane Blast	Deals arcane damage	29	18
+Hawk Bow	Bow	8	2	7	6	2	Hawk Eye	Highly accurate shot	25	23
+Titan Axe	Axe	20	11	1	2	2	Titan Crush	Deals massive damage	36	6
+Silent Blade	Dagger	4	2	9	10	3	Silent Kill	Delivers a silent deadly strike	28	17
+Blade of Shadows	Sword	13	5	5	3	2	Shadow Slash	Strikes from the shadows	28	19
+Holy Staff	Staff	1	5	6	2	15	Holy Light	Heals allies over time	29	18
+Hunter Bow	Bow	7	3	8	7	2	Hunter's Mark	Marks and tracks the target	27	21
+Savage Axe	Axe	18	12	2	1	2	Savage Cleave	Delivers a powerful cleave	35	6
+Rogue Dagger	Dagger	5	1	9	10	2	Rogue Strike	Deals extra damage from stealth	27	20
+Flame Blade	Sword	14	4	5	3	2	Inferno Slash	Engulfs the blade in flames	28	19
+Seer Staff	Staff	2	3	6	2	15	Seer's Vision	Reveals hidden enemies	28	19
+War Bow	Bow	8	2	8	6	2	Barrage	Fires multiple arrows at once	26	22
+Brute Axe	Axe	19	10	2	2	1	Brute Force	Delivers a heavy blow	34	8
+Searing Sword	Sword	14	5	5	3	2	Flame Wave	Unleashes a wave of fire	29	21
+Glacial Staff	Staff	2	5	5	3	14	Ice Storm	Creates a storm of ice	29	21
+Eagle Bow	Bow	8	2	8	6	2	Eagle Eye	Improves accuracy for a short time	26	23
+Crimson Axe	Axe	17	11	2	1	3	Blood Rage	Gains strength from taking damage	34	11
+Whisper Dagger	Dagger	5	1	8	10	2	Whispering Death	Silently kills the target	26	23
+Valiant Sword	Sword	12	7	4	3	2	Valiant Charge	Charges with increased speed	28	22
+Elemental Staff	Staff	1	5	6	2	16	Elemental Burst	Deals elemental damage	30	16
+Gale Bow	Bow	7	3	7	7	3	Gale Force	Creates a strong wind to knock back enemies	27	21
+Savage Axe	Axe	18	12	2	1	2	Savage Cleave	Delivers a powerful cleave	35	7
+Silent Blade	Dagger	6	1	9	10	3	Silent Kill	Delivers a silent deadly strike	29	21
+Titan Sword	Sword	16	6	4	3	1	Titan Smash	Unleashes a powerful smash	30	16
+Mystic Rod	Staff	2	3	7	2	15	Magic Burst	Deals burst damage	29	21
+Longshot Bow	Bow	6	3	9	6	2	Longshot	Highly accurate long-range shot	26	23
+Heavy Axe	Axe	20	10	2	1	2	Heavy Strike	Deals massive damage	35	7
+Shadow Knife	Dagger	5	2	8	10	2	Shadow Strike	Deals extra damage from the shadows	27	20
+Sun Sword	Sword	14	5	6	2	3	Sunbeam	Emits a blinding beam	30	16
+Wizard Staff	Staff	1	5	6	2	16	Arcane Wave	Deals continuous arcane damage	30	16
+Wind Bow	Bow	8	3	7	5	2	Wind Arrow	Fires an arrow that pushes enemies back	25	25
+Thunder Axe	Axe	17	11	3	2	3	Thunder Strike	Deals thunder damage	36	7
+Stealth Knife	Dagger	4	1	8	10	2	Stealth Kill	Allows for a silent deadly strike	25	26
+Blade of Dawn	Sword	15	6	5	3	2	Dawn Slash	Unleashes a slash with the power of dawn	31	14
+Mystic Scepter	Staff	2	4	6	3	14	Scepter Blast	Deals damage with magic energy	29	21
+Hunter's Bow	Bow	7	2	8	6	3	Tracking Shot	Fires an arrow that tracks the target	26	23
+Savage Axe	Axe	20	12	1	2	2	Savage Strike	Delivers a wild powerful strike	37	6
+Silent Knife	Dagger	5	1	8	10	3	Silent Slash	Deals critical damage	27	19
+Royal Sword	Sword	16	7	4	3	2	Royal Slash	Delivers a powerful royal slash	32	11
+Ghost Blade	Dagger	6	1	10	8	3	Ghost Strike	Phases through armor	28	17
+Light's Fury	Sword	17	6	5	2	2	Divine Wrath	Deals holy damage to all enemies	32	11
+Darkness Staff	Staff	2	3	5	2	16	Dark Pulse	Emits a wave of dark energy	28	18
+Hunter Bow	Bow	6	2	8	7	3	Hunter's Precision	Increases accuracy	26	23
+Battle Axe	Axe	19	10	3	1	2	War Cry	Boosts ally morale	35	7
+Venom Dagger	Dagger	6	2	9	8	3	Poison Stab	Deals poison damage over time	28	17
+Dragon's Breath	Sword	18	5	6	2	3	Dragon Flame	Engulfs enemies in dragon fire	34	11
+Sage Staff	Staff	2	4	6	3	14	Sage's Wisdom	Boosts intelligence of allies	29	21
+Eagle Eye Bow	Bow	7	2	9	6	2	Piercing Shot	Penetrates armor	26	23
+Battle Dagger	Dagger	5	2	9	9	2	Backstab	Deals extra damage from behind	27	19
+Arcane Blade	Sword	14	6	5	3	3	Arcane Slash	Deals arcane damage	31	14
+Sorcerer's Rod	Staff	1	5	6	2	16	Elemental Burst	Unleashes elemental energy	30	16
+Ranger Bow	Bow	8	3	7	6	2	Multi-Shot	Fires multiple arrows	26	23
+Titanic Axe	Axe	20	11	2	2	1	Titanic Smash	Crushes enemies	36	7
+Stealth Dagger	Dagger	5	1	9	10	2	Assassinate	Instantly kills low-health enemies	27	19
+Blade of Fury	Sword	17	7	4	3	2	Rage Slash	Increases damage when low on health	33	11
+Healer's Staff	Staff	1	5	6	3	15	Healing Light	Heals allies	30	16
+Precision Bow	Bow	7	3	9	6	2	Sharpshooter	Increases critical hit chance	27	21
+Warrior Axe	Axe	18	12	3	2	1	Warrior's Strike	Boosts attack power	36	7
+Deadly Dagger	Dagger	6	1	10	10	2	Lethal Strike	Deals deadly damage	29	21
+Silver Sword	Sword	15	6	5	3	2	Silver Slash	Deals extra damage to undead	31	14
+Eldritch Staff	Staff	2	3	6	2	16	Eldritch Blast	Deals eldritch damage	29	21
+Long Bow	Bow	8	2	9	7	2	Long Shot	Fires arrows from a long distance	28	18
+Savage Axe	Axe	21	11	1	2	2	Savage Smash	Delivers a heavy blow	37	6
+Shade Dagger	Dagger	5	1	10	9	3	Shade Strike	Increases damage from shadows	28	17
+Blade of Valor	Sword	16	7	5	3	2	Valor Slash	Increases attack power	33	11
+Mage Staff	Staff	1	5	7	2	15	Mage's Wrath	Unleashes magical fury	30	16
+Hawkeye Bow	Bow	7	3	8	7	2	Eagle Shot	Highly accurate	27	21
+Venomous Sword	Sword	14	5	6	2	3	Venom Strike	Deals poison damage over time	30	18
+Mystic Staff	Staff	1	6	5	2	17	Mystic Burst	Unleashes a burst of mystic energy	31	17
+Lightning Bow	Bow	7	4	8	6	3	Lightning Arrow	Strikes with a bolt of lightning	28	20
+Warrior Axe	Axe	19	12	3	2	2	Warrior's Wrath	Boosts attack power	37	6
+Nightshade Dagger	Dagger	5	2	8	9	2	Darkness Strike	Deals dark damage	26	19
+Silver Sword	Sword	15	6	5	3	2	Silver Edge	Deals extra damage to undead	31	14
+Inferno Staff	Staff	2	4	7	2	16	Flame Wave	Unleashes a wave of fire	31	17
+Phoenix Bow	Bow	8	3	8	6	2	Flame Arrow	Ignites arrows on fire	27	22
+Raging Axe	Axe	18	11	3	2	2	Wild Swing	Deals a wide powerful swing	36	7
+Dagger of Shadows	Dagger	5	1	9	10	3	Shadow Strike	Strikes from the shadows	28	18
+Dragon Sword	Sword	18	7	6	3	2	Dragon Slash	Unleashes a dragon's breath	36	11
+Frost Staff	Staff	2	5	5	2	15	Frost Nova	Freezes enemies in a wide area	29	16
+Hunter's Bow	Bow	7	3	9	7	3	Tracking Arrow	Tracks the target with the arrow	29	19
+Titan Axe	Axe	20	11	2	2	1	Titan Strike	Crushes enemies with a mighty blow	36	6
+Shadow Blade	Dagger	6	2	9	9	2	Phantom Strike	Strikes with shadowy energy	31	17
+Celestial Sword	Sword	16	8	5	2	3	Celestial Strike	Deals holy damage	34	10
+Arcane Staff	Staff	2	4	6	3	15	Arcane Burst	Unleashes an arcane explosion	30	16
+Swift Bow	Bow	7	2	10	7	2	Swift Shot	Increases speed for rapid firing	28	21
+Thunder Axe	Axe	17	12	3	2	2	Thunder Strike	Deals thunder damage	36	8
+Silence Dagger	Dagger	5	1	10	10	2	Silent Strike	Deals a silent deadly blow	29	18
+Starlight Sword	Sword	15	7	5	3	3	Starlight Slash	Unleashes starlight energy	33	12
+Nature Staff	Staff	1	6	5	3	17	Flora Burst	Creates a burst of nature energy	32	18
+Hawk Bow	Bow	7	3	9	7	3	Eagle Shot	Increases accuracy and range	28	21
+Guardian Axe	Axe	18	13	3	1	2	Guardian Strike	Increases defense and attack	37	7
+Silent Blade	Dagger	5	2	9	9	3	Silent Slice	Delivers a silent slice but deadly strike	30	19
+Phoenix Sword	Sword	17	6	6	3	3	Phoenix Strike	Unleashes a fiery strike	35	12
+Eldritch Staff	Staff	2	3	7	2	17	Eldritch Blast	Releases eldritch energy	31	18
+Rapid Bow	Bow	8	3	10	6	2	Rapid Fire	Fires arrows at a high speed	29	22
+Titan Axe	Axe	20	12	2	2	1	Titan Cleave	Delivers a massive cleave	37	6
+Assassin Dagger	Dagger	5	1	10	10	3	Assassinate	Instantly kills low-health enemies	30	19
+Glacial Sword	Sword	13	6	5	2	3	Glacial Slash	Freezes enemies on hit	29	17
+Warden Staff	Staff	2	5	6	3	15	Guardian Aura	Protects allies with a shield	31	17
+Hurricane Bow	Bow	7	4	9	6	3	Hurricane Arrow	Creates a storm of arrows	29	20
+Warrior Axe	Axe	19	11	3	2	2	Warrior's Rage	Boosts strength and speed	36	7
+Night Dagger	Dagger	6	1	10	10	2	Night Stab	Deals damage in the dark	30	18
+Blood Sword	Sword	16	7	6	3	2	Blood Strike	Deals extra damage to low health	34	11
+Sorcerer Staff	Staff	1	6	5	2	17	Sorcerer's Flame	Releases a burst of flame	32	18
+Hurricane Bow	Bow	8	4	10	5	2	Storm Arrow	Creates a storm of arrows	29	21
+Frost Axe	Axe	17	11	3	1	2	Frost Cleave	Freezes enemies on impact	34	8
+Shadow Dagger	Dagger	5	1	10	10	2	Shadow Slice	Deals shadow damage	29	19
+Crimson Blade	Sword	15	6	6	3	2	Crimson Slash	Deals extra damage to life	32	12
+Mystic Staff	Staff	2	4	7	2	17	Mystic Wave	Unleashes a wave of mystic energy	31	17
+Swift Bow	Bow	7	3	10	6	2	Swift Arrow	Increases speed for quick shots	28	21
+Warrior Axe	Axe	18	12	4	2	1	Warrior's Cleave	Delivers a mighty blow	37	7
+Silent Dagger	Dagger	5	2	10	10	3	Shadow Strike	Strikes with shadow energy	31	18
+Solar Sword	Sword	16	8	6	2	3	Solar Strike	Unleashes solar energy	34	12
+Arcane Staff	Staff	1	6	6	3	16	Arcane Pulse	Releases a pulse of arcane energy	32	18
+Nature Bow	Bow	7	4	8	7	2	Flora Arrow	Creates an arrow of nature	29	20
+Warrior Axe	Axe	19	12	4	2	2	Warrior's Might	Boosts strength and defense	36	7
+Shadow Blade	Dagger	6	2	10	10	2	Phantom Strike	Deals a phantom strike	30	19
+Celestial Sword	Sword	15	7	6	3	3	Star Strike	Unleashes a star-powered strike	34	13
+Phoenix Staff	Staff	2	5	7	3	17	Phoenix Burst	Releases a burst of phoenix flames	33	18
+Longbow	Bow	8	3	10	7	2	Long Shot	Fires arrows from a long distance	29	21
+Venom Axe	Axe	18	11	3	2	2	Venom Cleave	Deals poison damage on impact	34	9
+Shadow Dagger	Dagger	5	1	11	10	3	Shadow Stab	Strikes with shadow energy	31	18
+Dragon Blade	Sword	17	8	6	2	3	Dragon Strike	Unleashes a dragon's fury	36	12
+Warlock Staff	Staff	1	6	6	3	18	Warlock's Curse	Applies a curse to enemies	33	19
+Quick Bow	Bow	7	3	11	6	2	Quick Shot	Fires arrows rapidly	29	22
+Warrior Axe	Axe	19	13	4	2	1	Warrior's Wrath	Boosts attack power and defense	38	6
+Silent Dagger	Dagger	5	1	11	10	3	Silent Stab	Delivers a silent deadly blow	31	19
+Titan Sword	Sword	16	8	6	3	2	Titan Slash	Unleashes a titan's power	35	12
+Mystic Staff	Staff	2	5	7	2	18	Mystic Surge	Surges with mystic energy	33	19
+Hunter Bow	Bow	7	3	10	7	3	Precision Shot	Increases accuracy for a shot	29	21
+Swift Axe	Axe	18	11	4	2	2	Swift Strike	Increases speed and attack	37	8
+Eagle Dagger	Dagger	6	2	11	10	2	Eagle Strike	Increases accuracy and damage	31	18
+Arcane Sword	Sword	14	6	6	3	3	Arcane Slash	Unleashes arcane energy	32	14
+Sorcerer Staff	Staff	1	5	7	3	18	Sorcerer's Flame	Unleashes a burst of flame	33	19
+Night Bow	Bow	8	4	11	6	2	Night Arrow	Creates an arrow of darkness	29	22
+War Axe	Axe	19	12	5	2	2	War Axe	Increases damage and defense	37	7
+Shadow Blade	Dagger	5	1	11	11	2	Shadow Strike	Deals a shadowy strike	32	19
+Blazing Sword	Sword	16	7	6	2	3	Flame Slash	Unleashes a fiery slash	34	12
+Elder Staff	Staff	1	6	7	2	18	Elder Burst	Unleashes elder energy	34	18
+Storm Bow	Bow	8	4	9	7	2	Storm Arrow	Fires a storm arrow	30	20
+Giant Axe	Axe	21	13	2	1	2	Giant Smash	Crushes enemies with a powerful blow	39	6
+Shadow Dagger	Dagger	6	2	10	10	3	Shadow Strike	Strikes from the shadows	31	17
+Holy Sword	Sword	17	8	5	3	2	Holy Strike	Deals holy damage	35	12
+Flame Staff	Staff	2	5	6	3	17	Flame Wave	Unleashes a wave of fire	33	18
+Wind Bow	Bow	7	3	11	7	2	Wind Arrow	Fires an arrow with the power of wind	30	20
+Steel Axe	Axe	19	12	4	2	2	Steel Cleave	Delivers a heavy cleave	39	7
+Silent Blade	Dagger	5	1	11	11	2	Silent Strike	Delivers a silent deadly strike	30	19
+Radiant Sword	Sword	15	7	7	2	3	Radiant Slash	Unleashes a radiant energy	34	13
+Arcane Staff	Staff	2	6	6	3	18	Arcane Burst	Unleashes an arcane explosion	35	17
+Hunter's Bow	Bow	7	3	10	8	3	Hunter's Precision	Increases accuracy	31	20
+Titan Axe	Axe	21	13	2	2	2	Titan Smash	Crushes enemies with a powerful blow	40	6
+Shade Dagger	Dagger	6	2	11	9	2	Shade Strike	Deals extra damage from shadows	30	18
+Lunar Sword	Sword	17	7	6	2	3	Lunar Slash	Unleashes a lunar energy	35	12
+Sorcerer's Staff	Staff	1	6	6	2	17	Sorcerer's Burst	Releases a burst of magic	32	19
+Precision Bow	Bow	8	3	11	7	3	Precision Shot	Fires an arrow with high accuracy	32	19
+Warrior's Axe	Axe	20	12	3	1	2	Warrior's Wrath	Boosts attack power and defense	38	7
+Stealth Dagger	Dagger	5	1	11	11	3	Stealth Strike	Strikes with stealth	31	18
+Sunblade	Sword	16	7	7	3	2	Sun Strike	Unleashes solar energy	35	12
+Mystic Staff	Staff	2	5	6	2	18	Mystic Burst	Unleashes mystic energy	33	17
+Hurricane Bow	Bow	7	4	11	6	3	Hurricane Arrow	Creates a storm of arrows	31	19
+Titan Axe	Axe	21	12	2	2	2	Titan Strike	Delivers a powerful strike	39	7
+Assassin's Dagger	Dagger	5	2	10	10	3	Assassinate	Instantly kills low-health enemies	30	19
+Glacial Sword	Sword	14	6	6	2	3	Glacial Strike	Freezes enemies on hit	31	15
+Elder Staff	Staff	2	5	7	3	18	Elder's Wisdom	Boosts intelligence of allies	35	17
+Rapid Bow	Bow	8	3	10	6	3	Rapid Fire	Fires arrows at a high speed	30	21
+Raging Axe	Axe	19	13	3	2	1	Raging Strike	Delivers a powerful strike	38	7
+Nightshade Dagger	Dagger	6	1	11	10	2	Night Slash	Deals extra damage in the dark	30	18
+Crimson Blade	Sword	15	7	7	3	2	Crimson Slash	Unleashes a wave of blood energy	34	13
+Arcane Staff	Staff	1	6	6	3	17	Arcane Wave	Unleashes a wave of arcane energy	33	18
+Storm Bow	Bow	7	4	11	7	3	Storm Shot	Increases speed for rapid firing	32	20
+Guardian Axe	Axe	20	13	3	2	2	Guardian Strike	Increases defense and attack power	40	7
+Venom Dagger	Dagger	5	2	10	11	2	Poison Stab	Deals poison damage over time	30	19
+Phoenix Sword	Sword	17	6	7	2	3	Phoenix Strike	Unleashes a fiery strike	35	12
+Flame Staff	Staff	2	4	6	3	17	Flame Burst	Unleashes a burst of flame	32	19
+Ranger Bow	Bow	7	3	9	8	3	Multi-Shot	Fires multiple arrows	30	21
+Titan Axe	Axe	21	12	2	2	1	Titan Cleave	Delivers a massive cleave	38	6
+Silent Dagger	Dagger	5	1	10	11	3	Silent Stab	Deals a silent deadly blow	30	18
+Blade of Dawn	Sword	17	7	6	3	2	Dawn Strike	Unleashes the power of dawn	35	11
+Sage Staff	Staff	2	5	7	3	16	Sage's Wisdom	Boosts intelligence of allies	33	18
+Longshot Bow	Bow	8	3	10	7	2	Longshot	Fires a highly accurate long-range shot	30	21
+Warrior Axe	Axe	19	12	4	2	2	Warrior's Cleave	Delivers a powerful cleave	39	7
+Assassin Dagger	Dagger	6	1	11	10	2	Assassinate	Instantly kills low-health enemies	30	18
+Starlight Sword	Sword	16	8	7	2	2	Starlight Slash	Unleashes starlight energy	35	12
+Mystic Scepter	Staff	1	6	7	2	18	Mystic Pulse	Releases a pulse of mystic energy	34	18
+Ranger's Bow	Bow	7	3	10	8	3	Ranger's Precision	Increases accuracy	31	20
+Titan Axe	Axe	21	13	2	2	2	Titan Smash	Crushes enemies with a powerful blow	40	6
+Venom Dagger	Dagger	5	1	11	10	2	Venom Strike	Deals poison damage	29	19
+Sunblade	Sword	17	7	6	3	2	Sun Slash	Unleashes solar energy	35	11
+Flame Staff	Staff	2	5	7	2	18	Flame Wave	Unleashes a wave of fire	34	17
+Hurricane Bow	Bow	8	4	11	7	2	Storm Arrow	Fires an arrow with the power of storm	32	20
+Guardian Axe	Axe	20	12	3	2	1	Guardian Smash	Crushes enemies with a powerful blow	38	7
+Shadow Blade	Dagger	6	2	10	10	3	Phantom Strike	Strikes with shadow energy	31	18
+Blade of Fury	Sword	18	7	6	3	2	Fury Slash	Unleashes a slash with fury	36	11
+Sorcerer Staff	Staff	2	5	6	3	17	Sorcerer's Burst	Releases a burst of magic	33	18
+Quick Bow	Bow	8	3	10	7	3	Quick Shot	Fires arrows rapidly	31	21
+Heavy Axe	Axe	20	13	3	2	1	Heavy Strike	Deals massive damage	39	7
+Silent Blade	Dagger	5	1	10	11	2	Silent Slash	Delivers a silent deadly strike	29	19
+Phoenix Blade	Sword	17	6	7	3	2	Phoenix Slash	Unleashes a fiery slash	35	12
+Arcane Staff	Staff	2	6	6	2	17	Arcane Burst	Unleashes an arcane explosion	33	18
+Longbow	Bow	8	3	11	7	2	Long Shot	Fires arrows from a long distance	31	21
+Steel Axe	Axe	19	12	4	2	2	Steel Cleave	Delivers a heavy cleave	39	7
+Night Dagger	Dagger	6	1	11	10	2	Night Strike	Deals extra damage in the dark	30	18
+Crimson Blade	Sword	15	7	7	2	3	Crimson Slash	Unleashes a wave of blood energy	34	12
+Mystic Staff	Staff	1	6	7	3	18	Mystic Burst	Unleashes mystic energy	35	18
+Hawk Bow	Bow	7	4	10	8	2	Hawk Shot	Increases accuracy for a shot	31	20
+Titan Axe	Axe	21	12	2	2	1	Titan Cleave	Delivers a massive cleave	38	6
+Assassin's Dagger	Dagger	5	2	11	10	3	Assassinate	Instantly kills low-health enemies	31	18
+Celestial Sword	Sword	16	8	7	2	2	Star Strike	Unleashes star-powered energy	35	11
+Elder Staff	Staff	2	6	7	3	17	Elder Burst	Unleashes elder energy	35	18
+Hunter Bow	Bow	7	3	10	9	3	Hunter's Precision	Increases accuracy	32	20
+Raging Axe	Axe	19	13	4	2	1	Raging Strike	Delivers a powerful strike	39	7
+Silent Dagger	Dagger	5	1	11	10	3	Silent Stab	Deals a silent deadly blow	30	18
+Blazing Sword	Sword	17	7	6	3	2	Blazing Slash	Unleashes a fiery slash	35	12
+Arcane Staff	Staff	1	6	7	2	18	Arcane Pulse	Releases a pulse of arcane energy	34	18
+Storm Bow	Bow	8	3	11	8	2	Storm Arrow	Fires an arrow with the power of storm	32	20
+Warrior Axe	Axe	20	12	3	2	1	Warrior's Wrath	Boosts attack power and defense	38	7
+Shade Dagger	Dagger	6	1	11	10	2	Shade Strike	Deals extra damage from shadows	30	18
+Lunar Sword	Sword	17	7	7	2	3	Lunar Slash	Unleashes a lunar energy	36	11
+Mystic Staff	Staff	2	5	6	2	18	Mystic Wave	Unleashes a wave of mystic energy	33	17
+Precision Bow	Bow	8	4	11	7	3	Precision Shot	Fires an arrow with high accuracy	33	19
+Guardian Axe	Axe	21	13	3	2	2	Guardian Strike	Increases defense and attack power	41	6
+Phantom Dagger	Dagger	5	1	11	10	3	Phantom Strike	Strikes with phantom energy	30	18
+Blazing Sword	Sword	16	8	7	3	2	Blazing Slash	Unleashes a fiery slash	36	12
+Sorcerer's Staff	Staff	2	6	7	2	17	Sorcerer's Burst	Releases a burst of magic	34	18
+Swift Bow	Bow	8	3	11	7	2	Swift Shot	Fires arrows rapidly	31	21
+Heavy Axe	Axe	21	12	3	2	1	Heavy Strike	Deals massive damage	39	6
+Silent Blade	Dagger	6	1	10	11	2	Silent Slash	Delivers a silent deadly strike	30	19
+Dragon Blade	Sword	18	7	7	3	2	Dragon Slash	Unleashes a dragon's breath	37	11
+Flame Staff	Staff	2	6	6	2	17	Flame Burst	Unleashes a burst of flame	33	18
+Eagle Bow	Bow	7	4	11	8	2	Eagle Shot	Increases accuracy for a shot	32	20
+Steel Axe	Axe	19	12	4	2	2	Steel Cleave	Delivers a heavy cleave	39	7
+Night Dagger	Dagger	5	1	11	10	3	Night Strike	Deals extra damage in the dark	30	19
+Celestial Blade	Sword	17	7	7	2	3	Celestial Strike	Unleashes celestial energy	36	11
+Mystic Staff	Staff	2	6	7	3	18	Mystic Burst	Unleashes mystic energy	36	18
+Hunter's Bow	Bow	8	3	11	8	3	Hunter's Shot	Increases accuracy and damage	33	19
+Titan Axe	Axe	21	13	2	2	1	Titan Smash	Crushes enemies with a powerful blow	39	6
+Silent Blade	Dagger	5	2	11	10	3	Silent Stab	Deals a silent deadly blow	31	18
+Radiant Sword	Sword	16	8	7	3	2	Radiant Slash	Unleashes radiant energy	36	12
+Sage Staff	Staff	1	6	6	3	18	Sage's Wisdom	Boosts intelligence of allies	34	18
+Quick Bow	Bow	8	3	11	8	2	Quick Shot	Fires arrows rapidly	32	21
+Warrior Axe	Axe	20	12	4	2	2	Warrior's Cleave	Delivers a powerful cleave	40	7
+Shade Dagger	Dagger	6	1	11	11	2	Shade Slash	Deals extra damage from shadows	31	18
+Blazing Sword	Sword	17	7	7	3	2	Blazing Slash	Unleashes a fiery slash	36	11
+Arcane Staff	Staff	1	6	7	2	18	Arcane Burst	Unleashes an arcane explosion	34	18
+Storm Bow	Bow	7	4	11	8	3	Storm Arrow	Fires an arrow with the power of storm	33	20
+Guardian Axe	Axe	21	13	3	2	2	Guardian Smash	Crushes enemies with a powerful blow	41	6
+Phantom Dagger	Dagger	5	2	10	11	3	Phantom Strike	Strikes with phantom energy	31	18
+Blade of Dawn	Sword	17	7	6	3	2	Dawn Strike	Unleashes the power of dawn	35	11
+Elder Staff	Staff	2	6	7	3	17	Elder's Wisdom	Boosts intelligence of allies	35	17
+Hunter Bow	Bow	7	3	11	9	3	Hunter's Precision	Increases accuracy	33	19
+Flame Reaper	Scythe	20	9	5	4	2	Fire Slice	Cuts with blazing speed	40	9
+Venom Fang	Dagger	8	2	12	10	3	Poison Strike	Infects with deadly poison	35	17
+Thunder Hammer	Hammer	22	12	3	1	2	Thunder Crash	Unleashes a thunderous blow	40	6
+Ethereal Staff	Staff	1	5	6	3	18	Ethereal Blast	Fires ethereal energy	33	18
+Wind Spear	Spear	15	8	8	4	3	Gale Thrust	Attacks with the force of wind	38	10
+Chaos Sword	Sword	18	9	6	3	2	Chaos Slash	Unleashes chaotic energy	38	10
+Frost Bow	Bow	9	4	10	7	3	Freeze Shot	Shoots freezing arrows	33	18
+Stone Axe	Axe	21	13	3	2	1	Earth Shatter	Shatters the ground with a strike	40	7
+Dusk Blade	Dagger	7	1	12	11	2	Dusk Strike	Attacks from the shadows	33	17
+Holy Staff	Staff	2	6	5	2	17	Holy Burst	Releases holy energy	32	19
+Meteor Sword	Sword	19	8	5	2	3	Meteor Strike	Calls down a meteor	37	11
+Solar Staff	Staff	2	5	6	3	18	Solar Flare	Unleashes a burst of solar energy	34	18
+Eagle Bow	Bow	8	3	11	8	2	Eagle Eye	Increases critical hit chance	32	20
+Berserker Axe	Axe	22	12	4	2	1	Berserk Slash	Increases attack power	41	6
+Venom Dagger	Dagger	7	2	11	10	3	Venom Stab	Deals poison damage	33	18
+Moonblade	Sword	17	9	7	3	2	Moon Strike	Unleashes lunar energy	38	10
+Elder Staff	Staff	2	6	6	3	17	Elder Beam	Releases a beam of wisdom	34	18
+Rapid Bow	Bow	9	3	10	7	2	Rapid Shot	Fires arrows in quick succession	31	21
+Storm Axe	Axe	20	11	5	2	2	Storm Smash	Calls down lightning with a strike	40	8
+Silent Dagger	Dagger	6	1	11	10	3	Silent Strike	Attacks silently and deadly	31	18
+Inferno Sword	Sword	18	7	6	3	2	Inferno Slash	Unleashes a wave of fire	36	11
+Arcane Staff	Staff	1	5	7	3	18	Arcane Blast	Releases a burst of arcane energy	34	18
+Hunter's Bow	Bow	8	4	10	8	2	Hunter's Shot	Increases accuracy	32	20
+Guardian Axe	Axe	21	13	3	2	2	Guardian Smash	Boosts defense and attack power	41	6
+Assassin's Blade	Dagger	7	2	12	10	3	Assassinate	Deals a fatal blow	34	17
+Radiant Sword	Sword	17	8	7	3	2	Radiant Slash	Unleashes radiant energy	37	11
+Flame Staff	Staff	2	5	6	2	18	Flame Burst	Unleashes a burst of flame	33	18
+Gale Bow	Bow	7	3	11	7	3	Gale Arrow	Shoots wind-powered arrows	31	21
+Titan Axe	Axe	22	12	2	2	1	Titan Smash	Crushes enemies with a powerful blow	39	6
+Spectral Dagger	Dagger	6	1	11	10	3	Spectral Strike	Strikes with spectral energy	31	18
+Sunblade	Sword	17	7	6	3	2	Sun Slash	Unleashes solar energy	35	12
+Mystic Staff	Staff	1	6	7	3	18	Mystic Wave	Unleashes a wave of mystic energy	35	18
+Ranger's Bow	Bow	8	4	10	8	2	Ranger's Shot	Increases accuracy	32	20
+Warrior Axe	Axe	20	11	4	2	1	Warrior's Wrath	Increases attack and defense	38	7
+Shade Dagger	Dagger	5	1	11	10	2	Shade Strike	Deals extra damage from shadows	29	18
+Phoenix Sword	Sword	18	7	7	3	2	Phoenix Slash	Unleashes a fiery strike	37	11
+Flame Staff	Staff	2	5	7	2	17	Flame Wave	Unleashes a wave of fire	33	18
+Hurricane Bow	Bow	8	4	11	7	3	Hurricane Arrow	Creates a storm of arrows	33	20
+Guardian Axe	Axe	20	12	3	2	2	Guardian Strike	Boosts defense and attack power	39	7
+Silent Blade	Dagger	5	2	11	10	3	Silent Slash	Delivers a silent deadly strike	31	18
+Blade of Dawn	Sword	18	7	6	3	2	Dawn Strike	Unleashes the power of dawn	36	11
+Sage Staff	Staff	1	6	6	2	18	Sage's Wisdom	Boosts intelligence of allies	33	18
+Longbow	Bow	8	3	11	8	2	Long Shot	Fires arrows from a long distance	32	21
+Titan Axe	Axe	21	13	2	2	1	Titan Cleave	Delivers a massive cleave	39	6
+Assassin Dagger	Dagger	5	2	10	11	3	Assassinate	Instantly kills low-health enemies	31	18
+Glacial Sword	Sword	15	7	7	3	2	Glacial Slash	Freezes enemies on hit	34	12
+Mystic Scepter	Staff	2	6	6	3	18	Mystic Pulse	Releases a pulse of mystic energy	35	18
+Ranger Bow	Bow	7	3	9	8	2	Multi-Shot	Fires multiple arrows	29	21
+Titan Axe	Axe	21	12	2	2	1	Titan Cleave	Delivers a massive cleave	38	6
+Silent Dagger	Dagger	5	1	10	11	3	Silent Stab	Deals a silent deadly blow	30	18
+Celestial Sword	Sword	17	7	7	2	3	Star Strike	Unleashes star-powered energy	36	11
+Mystic Staff	Staff	2	6	7	3	18	Mystic Burst	Unleashes mystic energy	36	18
+Hunter's Bow	Bow	8	3	11	8	3	Hunter's Shot	Increases accuracy and damage	33	19
+Titan Axe	Axe	21	13	2	2	1	Titan Smash	Crushes enemies with a powerful blow	39	6
+Silent Blade	Dagger	5	2	11	10	3	Silent Stab	Deals a silent deadly blow	31	18
+Radiant Sword	Sword	16	8	7	2	2	Radiant Slash	Unleashes radiant energy	35	12
+Sage Staff	Staff	1	6	6	3	18	Sage's Wisdom	Boosts intelligence of allies	34	18
+Quick Bow	Bow	8	3	11	8	2	Quick Shot	Fires arrows rapidly	32	21
+Warrior Axe	Axe	20	12	4	2	2	Warrior's Cleave	Delivers a powerful cleave	40	7
+Shade Dagger	Dagger	6	1	11	11	2	Shade Slash	Deals extra damage from shadows	31	18
+Blazing Sword	Sword	17	7	7	3	2	Blazing Slash	Unleashes a fiery slash	36	11
+Arcane Staff	Staff	1	6	7	2	18	Arcane Burst	Unleashes an arcane explosion	34	18
+Storm Bow	Bow	7	4	11	8	3	Storm Arrow	Fires an arrow with the power of storm	33	20
+Guardian Axe	Axe	21	13	3	2	2	Guardian Smash	Crushes enemies with a powerful blow	41	6
+Phantom Dagger	Dagger	5	2	10	11	3	Phantom Strike	Strikes with phantom energy	31	18
+Blade of Dawn	Sword	17	7	6	3	2	Dawn Strike	Unleashes the power of dawn	35	11
+Elder Staff	Staff	2	6	7	3	17	Elder's Wisdom	Boosts intelligence of allies	35	17
+Hunter Bow	Bow	7	3	11	9	3	Hunter's Precision	Increases accuracy	33	19

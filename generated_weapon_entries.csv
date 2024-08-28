@@ -1,0 +1,8 @@
+Name,Weapon Type,Strength,Defense,Speed,Dexterity,Intelligence,Ability Name,Ability Description,Total Stats,Rank
+"Generate a detailed weapon entry with the following columns:
+Name, Weapon Type, Strength, Defense, Speed, Dexterity, Intelligence, Ability Name, Ability Description, Total Stats, Rank
+
+
+Unleashes a powerful arcane energy that damages enemies with a powerful blow",32,"29
+
+Arcane Staff",Staff,2,6,3,3,Arcane Wave,Unleashes a wave of arcane energy,33

@@ -1,0 +1,405 @@
+Name,Ability Name,Ability Description
+Iron Sword,Slash,Deals moderate damage with a wide arc
+Mystic Staff,Fireball,Casts a fireball that causes burning
+Elven Bow,Rapid Shot,Fires multiple arrows quickly
+Dwarven Axe,Earthquake,Causes a ground shockwave for extra damage
+Shadow Dagger,Stealth Strike,Allows for a surprise attack with increased crit chance
+Flame Sword,Blaze,Engulfs the sword in flames for extra damage
+Crystal Staff,Ice Shard,Fires a shard of ice that slows the target
+Thunder Bow,Thunderbolt,Strikes the target with a bolt of lightning
+War Axe,Cleave,Delivers a powerful cleaving strike
+Poison Dagger,Venom Strike,Injects poison into the target
+Silver Sword,Lunar Slash,Deals extra damage during the night
+Arcane Staff,Arcane Blast,Unleashes a blast of arcane energy
+Hunting Bow,Focused Shot,Fires a highly accurate shot
+Battle Axe,Smash,Delivers a crushing blow
+Shadow Blade,Backstab,Deals extra damage from behind
+Dragon Sword,Dragon Breath,Unleashes a fiery breath attack
+Elder Staff,Heal,Heals an ally or self over time
+Long Bow,Piercing Shot,Fires an arrow that pierces through targets
+Viking Axe,Fury,Causes the user to go into a rage
+Assassin Dagger,Silent Kill,Deals a silent deadly strike
+Golden Sword,Shine,Blinds enemies temporarily
+Storm Staff,Storm Call,Calls down a storm to damage enemies
+Cross Bow,Quick Reload,Fires bolts in rapid succession
+Guardian Axe,Guard,Increases defense for a short time
+Blood Dagger,Bloodlust,Gains health from dealing damage
+Knight Sword,Charge,Charges at the enemy with increased speed
+Phoenix Staff,Phoenix Flame,Revives the user upon defeat once
+Hunter Bow,Snare,Traps the target in place
+Reaper Axe,Reap,Deals massive damage to low-health targets
+Stealth Dagger,Invisibility,Renders the user invisible for a short time
+Steel Sword,Steel Slash,Delivers a heavy powerful slash
+Mystic Wand,Magic Missile,Fires a guided missile of magic energy
+Composite Bow,Explosive Arrow,Fires an arrow that explodes on impact
+Barbarian Axe,Berserk,Increases strength but lowers defense
+Venom Dagger,Toxic Strike,Deals damage over time with poison
+Sword of Light,Light Beam,Emits a beam of light that damages enemies
+Healer Staff,Heal Pulse,Sends a healing pulse to allies
+Ranger Bow,Multishot,Fires multiple arrows at once
+Executioner Axe,Execute,Instantly kills low-health targets
+Silent Blade,Sneak Attack,Deals critical damage from stealth
+Broad Sword,Cross Slash,Attacks with a cross-shaped slash
+Frost Staff,Frost Nova,Freezes enemies in place temporarily
+War Bow,Arrow Rain,Rains arrows down on enemies
+Battle Dagger,Ambush,Deals extra damage from behind
+Ancient Sword,Ancient Power,Unleashes ancient energy to damage enemies
+Solar Staff,Sunburst,Deals damage in a wide area
+Precision Bow,Precision Shot,Highly accurate and damaging shot
+Great Axe,Great Cleave,Wide powerful attack
+Tactical Dagger,Disarm,Disarms the target temporarily
+Blazing Sword,Inferno,Engulfs enemies in fire
+Rune Staff,Rune Blast,Deals damage with runic energy
+Warrior Bow,Power Shot,Delivers a powerful shot
+Crusher Axe,Crush,Delivers a crushing blow
+Quick Dagger,Quick Strike,Fast and agile attack
+Legendary Sword,Legend Strike,Unleashes legendary power
+Sorcerer Staff,Sorcerer's Flame,Deals continuous fire damage
+Swift Bow,Swift Shot,Fires arrows rapidly
+Hallowed Axe,Hallowed Strike,Deals holy damage
+Silent Dagger,Silent Kill,Deals a silent deadly strike
+Titan Sword,Titan Smash,Unleashes a powerful smash
+Mystic Rod,Magic Burst,Deals burst damage
+Longshot Bow,Longshot,Highly accurate long-range shot
+Heavy Axe,Heavy Strike,Deals massive damage
+Shadow Knife,Shadow Strike,Deals extra damage from the shadows
+Sun Sword,Sunbeam,Emits a blinding beam
+Wizard Staff,Arcane Wave,Deals continuous arcane damage
+Wind Bow,Wind Arrow,Fires an arrow that pushes enemies back
+Thunder Axe,Thunder Strike,Deals thunder damage
+Stealth Knife,Stealth Kill,Allows for a silent deadly strike
+Blade of Dawn,Dawn Slash,Unleashes a slash with the power of dawn
+Mystic Scepter,Scepter Blast,Deals damage with magic energy
+Hunter's Bow,Tracking Shot,Fires an arrow that tracks the target
+Savage Axe,Savage Strike,Delivers a wild powerful strike
+Silent Knife,Silent Slash,Deals critical damage
+Royal Sword,Royal Slash,Delivers a powerful royal slash
+Frost Blade,Frost Slash,Freezes enemies on hit
+Celestial Staff,Starfall,Causes stars to fall on enemies
+Venom Bow,Poison Arrow,Fires a poisoned arrow
+Berserker Axe,Berserk Fury,Increases strength but lowers defense
+Phantom Dagger,Phantom Strike,Deals critical damage
+Thunder Sword,Thunder Clap,Emits a thunderous shockwave
+Nature Staff,Vine Whip,Entangles and damages enemies
+Falcon Bow,Falcon Shot,Fires a high-speed arrow
+Gladiator Axe,Gladiator Smash,Delivers a powerful smash
+Ninja Dagger,Ninja Strike,Fast and deadly strike
+Knight's Blade,Shield Bash,Knocks back enemies with a shield
+Arcane Rod,Arcane Blast,Deals arcane damage
+Hawk Bow,Hawk Eye,Highly accurate shot
+Titan Axe,Titan Crush,Deals massive damage
+Silent Blade,Silent Kill,Delivers a silent deadly strike
+Blade of Shadows,Shadow Slash,Strikes from the shadows
+Holy Staff,Holy Light,Heals allies over time
+Hunter Bow,Hunter's Mark,Marks and tracks the target
+Savage Axe,Savage Cleave,Delivers a powerful cleave
+Rogue Dagger,Rogue Strike,Deals extra damage from stealth
+Flame Blade,Inferno Slash,Engulfs the blade in flames
+Seer Staff,Seer's Vision,Reveals hidden enemies
+War Bow,Barrage,Fires multiple arrows at once
+Brute Axe,Brute Force,Delivers a heavy blow
+Searing Sword,Flame Wave,Unleashes a wave of fire
+Glacial Staff,Ice Storm,Creates a storm of ice
+Eagle Bow,Eagle Eye,Improves accuracy for a short time
+Crimson Axe,Blood Rage,Gains strength from taking damage
+Whisper Dagger,Whispering Death,Silently kills the target
+Valiant Sword,Valiant Charge,Charges with increased speed
+Elemental Staff,Elemental Burst,Deals elemental damage
+Gale Bow,Gale Force,Creates a strong wind to knock back enemies
+Savage Axe,Savage Cleave,Delivers a powerful cleave
+Silent Blade,Silent Kill,Delivers a silent deadly strike
+Titan Sword,Titan Smash,Unleashes a powerful smash
+Mystic Rod,Magic Burst,Deals burst damage
+Longshot Bow,Longshot,Highly accurate long-range shot
+Heavy Axe,Heavy Strike,Deals massive damage
+Shadow Knife,Shadow Strike,Deals extra damage from the shadows
+Sun Sword,Sunbeam,Emits a blinding beam
+Wizard Staff,Arcane Wave,Deals continuous arcane damage
+Wind Bow,Wind Arrow,Fires an arrow that pushes enemies back
+Thunder Axe,Thunder Strike,Deals thunder damage
+Stealth Knife,Stealth Kill,Allows for a silent deadly strike
+Blade of Dawn,Dawn Slash,Unleashes a slash with the power of dawn
+Mystic Scepter,Scepter Blast,Deals damage with magic energy
+Hunter's Bow,Tracking Shot,Fires an arrow that tracks the target
+Savage Axe,Savage Strike,Delivers a wild powerful strike
+Silent Knife,Silent Slash,Deals critical damage
+Royal Sword,Royal Slash,Delivers a powerful royal slash
+Ghost Blade,Ghost Strike,Phases through armor
+Light's Fury,Divine Wrath,Deals holy damage to all enemies
+Darkness Staff,Dark Pulse,Emits a wave of dark energy
+Hunter Bow,Hunter's Precision,Increases accuracy
+Battle Axe,War Cry,Boosts ally morale
+Venom Dagger,Poison Stab,Deals poison damage over time
+Dragon's Breath,Dragon Flame,Engulfs enemies in dragon fire
+Sage Staff,Sage's Wisdom,Boosts intelligence of allies
+Eagle Eye Bow,Piercing Shot,Penetrates armor
+Battle Dagger,Backstab,Deals extra damage from behind
+Arcane Blade,Arcane Slash,Deals arcane damage
+Sorcerer's Rod,Elemental Burst,Unleashes elemental energy
+Ranger Bow,Multi-Shot,Fires multiple arrows
+Titanic Axe,Titanic Smash,Crushes enemies
+Stealth Dagger,Assassinate,Instantly kills low-health enemies
+Blade of Fury,Rage Slash,Increases damage when low on health
+Healer's Staff,Healing Light,Heals allies
+Precision Bow,Sharpshooter,Increases critical hit chance
+Warrior Axe,Warrior's Strike,Boosts attack power
+Deadly Dagger,Lethal Strike,Deals deadly damage
+Silver Sword,Silver Slash,Deals extra damage to undead
+Eldritch Staff,Eldritch Blast,Deals eldritch damage
+Long Bow,Long Shot,Fires arrows from a long distance
+Savage Axe,Savage Smash,Delivers a heavy blow
+Shade Dagger,Shade Strike,Increases damage from shadows
+Blade of Valor,Valor Slash,Increases attack power
+Mage Staff,Mage's Wrath,Unleashes magical fury
+Hawkeye Bow,Eagle Shot,Highly accurate
+Venomous Sword,Venom Strike,Deals poison damage over time
+Mystic Staff,Mystic Burst,Unleashes a burst of mystic energy
+Lightning Bow,Lightning Arrow,Strikes with a bolt of lightning
+Warrior Axe,Warrior's Wrath,Boosts attack power
+Nightshade Dagger,Darkness Strike,Deals dark damage
+Silver Sword,Silver Edge,Deals extra damage to undead
+Inferno Staff,Flame Wave,Unleashes a wave of fire
+Phoenix Bow,Flame Arrow,Ignites arrows on fire
+Raging Axe,Wild Swing,Deals a wide powerful swing
+Dagger of Shadows,Shadow Strike,Strikes from the shadows
+Dragon Sword,Dragon Slash,Unleashes a dragon's breath
+Frost Staff,Frost Nova,Freezes enemies in a wide area
+Hunter's Bow,Tracking Arrow,Tracks the target with the arrow
+Titan Axe,Titan Strike,Crushes enemies with a mighty blow
+Shadow Blade,Phantom Strike,Strikes with shadowy energy
+Celestial Sword,Celestial Strike,Deals holy damage
+Arcane Staff,Arcane Burst,Unleashes an arcane explosion
+Swift Bow,Swift Shot,Increases speed for rapid firing
+Thunder Axe,Thunder Strike,Deals thunder damage
+Silence Dagger,Silent Strike,Deals a silent deadly blow
+Starlight Sword,Starlight Slash,Unleashes starlight energy
+Nature Staff,Flora Burst,Creates a burst of nature energy
+Hawk Bow,Eagle Shot,Increases accuracy and range
+Guardian Axe,Guardian Strike,Increases defense and attack
+Silent Blade,Silent Slice,Delivers a silent slice but deadly strike
+Phoenix Sword,Phoenix Strike,Unleashes a fiery strike
+Eldritch Staff,Eldritch Blast,Releases eldritch energy
+Rapid Bow,Rapid Fire,Fires arrows at a high speed
+Titan Axe,Titan Cleave,Delivers a massive cleave
+Assassin Dagger,Assassinate,Instantly kills low-health enemies
+Glacial Sword,Glacial Slash,Freezes enemies on hit
+Warden Staff,Guardian Aura,Protects allies with a shield
+Hurricane Bow,Hurricane Arrow,Creates a storm of arrows
+Warrior Axe,Warrior's Rage,Boosts strength and speed
+Night Dagger,Night Stab,Deals damage in the dark
+Blood Sword,Blood Strike,Deals extra damage to low health
+Sorcerer Staff,Sorcerer's Flame,Releases a burst of flame
+Hurricane Bow,Storm Arrow,Creates a storm of arrows
+Frost Axe,Frost Cleave,Freezes enemies on impact
+Shadow Dagger,Shadow Slice,Deals shadow damage
+Crimson Blade,Crimson Slash,Deals extra damage to life
+Mystic Staff,Mystic Wave,Unleashes a wave of mystic energy
+Swift Bow,Swift Arrow,Increases speed for quick shots
+Warrior Axe,Warrior's Cleave,Delivers a mighty blow
+Silent Dagger,Shadow Strike,Strikes with shadow energy
+Solar Sword,Solar Strike,Unleashes solar energy
+Arcane Staff,Arcane Pulse,Releases a pulse of arcane energy
+Nature Bow,Flora Arrow,Creates an arrow of nature
+Warrior Axe,Warrior's Might,Boosts strength and defense
+Shadow Blade,Phantom Strike,Deals a phantom strike
+Celestial Sword,Star Strike,Unleashes a star-powered strike
+Phoenix Staff,Phoenix Burst,Releases a burst of phoenix flames
+Longbow,Long Shot,Fires arrows from a long distance
+Venom Axe,Venom Cleave,Deals poison damage on impact
+Shadow Dagger,Shadow Stab,Strikes with shadow energy
+Dragon Blade,Dragon Strike,Unleashes a dragon's fury
+Warlock Staff,Warlock's Curse,Applies a curse to enemies
+Quick Bow,Quick Shot,Fires arrows rapidly
+Warrior Axe,Warrior's Wrath,Boosts attack power and defense
+Silent Dagger,Silent Stab,Delivers a silent deadly blow
+Titan Sword,Titan Slash,Unleashes a titan's power
+Mystic Staff,Mystic Surge,Surges with mystic energy
+Hunter Bow,Precision Shot,Increases accuracy for a shot
+Swift Axe,Swift Strike,Increases speed and attack
+Eagle Dagger,Eagle Strike,Increases accuracy and damage
+Arcane Sword,Arcane Slash,Unleashes arcane energy
+Sorcerer Staff,Sorcerer's Flame,Unleashes a burst of flame
+Night Bow,Night Arrow,Creates an arrow of darkness
+War Axe,War Axe,Increases damage and defense
+Shadow Blade,Shadow Strike,Deals a shadowy strike
+Blazing Sword,Flame Slash,Unleashes a fiery slash
+Elder Staff,Elder Burst,Unleashes elder energy
+Storm Bow,Storm Arrow,Fires a storm arrow
+Giant Axe,Giant Smash,Crushes enemies with a powerful blow
+Shadow Dagger,Shadow Strike,Strikes from the shadows
+Holy Sword,Holy Strike,Deals holy damage
+Flame Staff,Flame Wave,Unleashes a wave of fire
+Wind Bow,Wind Arrow,Fires an arrow with the power of wind
+Steel Axe,Steel Cleave,Delivers a heavy cleave
+Silent Blade,Silent Strike,Delivers a silent deadly strike
+Radiant Sword,Radiant Slash,Unleashes a radiant energy
+Arcane Staff,Arcane Burst,Unleashes an arcane explosion
+Hunter's Bow,Hunter's Precision,Increases accuracy
+Titan Axe,Titan Smash,Crushes enemies with a powerful blow
+Shade Dagger,Shade Strike,Deals extra damage from shadows
+Lunar Sword,Lunar Slash,Unleashes a lunar energy
+Sorcerer's Staff,Sorcerer's Burst,Releases a burst of magic
+Precision Bow,Precision Shot,Fires an arrow with high accuracy
+Warrior's Axe,Warrior's Wrath,Boosts attack power and defense
+Stealth Dagger,Stealth Strike,Strikes with stealth
+Sunblade,Sun Strike,Unleashes solar energy
+Mystic Staff,Mystic Burst,Unleashes mystic energy
+Hurricane Bow,Hurricane Arrow,Creates a storm of arrows
+Titan Axe,Titan Strike,Delivers a powerful strike
+Assassin's Dagger,Assassinate,Instantly kills low-health enemies
+Glacial Sword,Glacial Strike,Freezes enemies on hit
+Elder Staff,Elder's Wisdom,Boosts intelligence of allies
+Rapid Bow,Rapid Fire,Fires arrows at a high speed
+Raging Axe,Raging Strike,Delivers a powerful strike
+Nightshade Dagger,Night Slash,Deals extra damage in the dark
+Crimson Blade,Crimson Slash,Unleashes a wave of blood energy
+Arcane Staff,Arcane Wave,Unleashes a wave of arcane energy
+Storm Bow,Storm Shot,Increases speed for rapid firing
+Guardian Axe,Guardian Strike,Increases defense and attack power
+Venom Dagger,Poison Stab,Deals poison damage over time
+Phoenix Sword,Phoenix Strike,Unleashes a fiery strike
+Flame Staff,Flame Burst,Unleashes a burst of flame
+Ranger Bow,Multi-Shot,Fires multiple arrows
+Titan Axe,Titan Cleave,Delivers a massive cleave
+Silent Dagger,Silent Stab,Deals a silent deadly blow
+Blade of Dawn,Dawn Strike,Unleashes the power of dawn
+Sage Staff,Sage's Wisdom,Boosts intelligence of allies
+Longshot Bow,Longshot,Fires a highly accurate long-range shot
+Warrior Axe,Warrior's Cleave,Delivers a powerful cleave
+Assassin Dagger,Assassinate,Instantly kills low-health enemies
+Starlight Sword,Starlight Slash,Unleashes starlight energy
+Mystic Scepter,Mystic Pulse,Releases a pulse of mystic energy
+Ranger's Bow,Ranger's Precision,Increases accuracy
+Titan Axe,Titan Smash,Crushes enemies with a powerful blow
+Venom Dagger,Venom Strike,Deals poison damage
+Sunblade,Sun Slash,Unleashes solar energy
+Flame Staff,Flame Wave,Unleashes a wave of fire
+Hurricane Bow,Storm Arrow,Fires an arrow with the power of storm
+Guardian Axe,Guardian Smash,Crushes enemies with a powerful blow
+Shadow Blade,Phantom Strike,Strikes with shadow energy
+Blade of Fury,Fury Slash,Unleashes a slash with fury
+Sorcerer Staff,Sorcerer's Burst,Releases a burst of magic
+Quick Bow,Quick Shot,Fires arrows rapidly
+Heavy Axe,Heavy Strike,Deals massive damage
+Silent Blade,Silent Slash,Delivers a silent deadly strike
+Phoenix Blade,Phoenix Slash,Unleashes a fiery slash
+Arcane Staff,Arcane Burst,Unleashes an arcane explosion
+Longbow,Long Shot,Fires arrows from a long distance
+Steel Axe,Steel Cleave,Delivers a heavy cleave
+Night Dagger,Night Strike,Deals extra damage in the dark
+Crimson Blade,Crimson Slash,Unleashes a wave of blood energy
+Mystic Staff,Mystic Burst,Unleashes mystic energy
+Hawk Bow,Hawk Shot,Increases accuracy for a shot
+Titan Axe,Titan Cleave,Delivers a massive cleave
+Assassin's Dagger,Assassinate,Instantly kills low-health enemies
+Celestial Sword,Star Strike,Unleashes star-powered energy
+Elder Staff,Elder Burst,Unleashes elder energy
+Hunter Bow,Hunter's Precision,Increases accuracy
+Raging Axe,Raging Strike,Delivers a powerful strike
+Silent Dagger,Silent Stab,Deals a silent deadly blow
+Blazing Sword,Blazing Slash,Unleashes a fiery slash
+Arcane Staff,Arcane Pulse,Releases a pulse of arcane energy
+Storm Bow,Storm Arrow,Fires an arrow with the power of storm
+Warrior Axe,Warrior's Wrath,Boosts attack power and defense
+Shade Dagger,Shade Strike,Deals extra damage from shadows
+Lunar Sword,Lunar Slash,Unleashes a lunar energy
+Mystic Staff,Mystic Wave,Unleashes a wave of mystic energy
+Precision Bow,Precision Shot,Fires an arrow with high accuracy
+Guardian Axe,Guardian Strike,Increases defense and attack power
+Phantom Dagger,Phantom Strike,Strikes with phantom energy
+Blazing Sword,Blazing Slash,Unleashes a fiery slash
+Sorcerer's Staff,Sorcerer's Burst,Releases a burst of magic
+Swift Bow,Swift Shot,Fires arrows rapidly
+Heavy Axe,Heavy Strike,Deals massive damage
+Silent Blade,Silent Slash,Delivers a silent deadly strike
+Dragon Blade,Dragon Slash,Unleashes a dragon's breath
+Flame Staff,Flame Burst,Unleashes a burst of flame
+Eagle Bow,Eagle Shot,Increases accuracy for a shot
+Steel Axe,Steel Cleave,Delivers a heavy cleave
+Night Dagger,Night Strike,Deals extra damage in the dark
+Celestial Blade,Celestial Strike,Unleashes celestial energy
+Mystic Staff,Mystic Burst,Unleashes mystic energy
+Hunter's Bow,Hunter's Shot,Increases accuracy and damage
+Titan Axe,Titan Smash,Crushes enemies with a powerful blow
+Silent Blade,Silent Stab,Deals a silent deadly blow
+Radiant Sword,Radiant Slash,Unleashes radiant energy
+Sage Staff,Sage's Wisdom,Boosts intelligence of allies
+Quick Bow,Quick Shot,Fires arrows rapidly
+Warrior Axe,Warrior's Cleave,Delivers a powerful cleave
+Shade Dagger,Shade Slash,Deals extra damage from shadows
+Blazing Sword,Blazing Slash,Unleashes a fiery slash
+Arcane Staff,Arcane Burst,Unleashes an arcane explosion
+Storm Bow,Storm Arrow,Fires an arrow with the power of storm
+Guardian Axe,Guardian Smash,Crushes enemies with a powerful blow
+Phantom Dagger,Phantom Strike,Strikes with phantom energy
+Blade of Dawn,Dawn Strike,Unleashes the power of dawn
+Elder Staff,Elder's Wisdom,Boosts intelligence of allies
+Hunter Bow,Hunter's Precision,Increases accuracy
+Flame Reaper,Fire Slice,Cuts with blazing speed
+Venom Fang,Poison Strike,Infects with deadly poison
+Thunder Hammer,Thunder Crash,Unleashes a thunderous blow
+Ethereal Staff,Ethereal Blast,Fires ethereal energy
+Wind Spear,Gale Thrust,Attacks with the force of wind
+Chaos Sword,Chaos Slash,Unleashes chaotic energy
+Frost Bow,Freeze Shot,Shoots freezing arrows
+Stone Axe,Earth Shatter,Shatters the ground with a strike
+Dusk Blade,Dusk Strike,Attacks from the shadows
+Holy Staff,Holy Burst,Releases holy energy
+Meteor Sword,Meteor Strike,Calls down a meteor
+Solar Staff,Solar Flare,Unleashes a burst of solar energy
+Eagle Bow,Eagle Eye,Increases critical hit chance
+Berserker Axe,Berserk Slash,Increases attack power
+Venom Dagger,Venom Stab,Deals poison damage
+Moonblade,Moon Strike,Unleashes lunar energy
+Elder Staff,Elder Beam,Releases a beam of wisdom
+Rapid Bow,Rapid Shot,Fires arrows in quick succession
+Storm Axe,Storm Smash,Calls down lightning with a strike
+Silent Dagger,Silent Strike,Attacks silently and deadly
+Inferno Sword,Inferno Slash,Unleashes a wave of fire
+Arcane Staff,Arcane Blast,Releases a burst of arcane energy
+Hunter's Bow,Hunter's Shot,Increases accuracy
+Guardian Axe,Guardian Smash,Boosts defense and attack power
+Assassin's Blade,Assassinate,Deals a fatal blow
+Radiant Sword,Radiant Slash,Unleashes radiant energy
+Flame Staff,Flame Burst,Unleashes a burst of flame
+Gale Bow,Gale Arrow,Shoots wind-powered arrows
+Titan Axe,Titan Smash,Crushes enemies with a powerful blow
+Spectral Dagger,Spectral Strike,Strikes with spectral energy
+Sunblade,Sun Slash,Unleashes solar energy
+Mystic Staff,Mystic Wave,Unleashes a wave of mystic energy
+Ranger's Bow,Ranger's Shot,Increases accuracy
+Warrior Axe,Warrior's Wrath,Increases attack and defense
+Shade Dagger,Shade Strike,Deals extra damage from shadows
+Phoenix Sword,Phoenix Slash,Unleashes a fiery strike
+Flame Staff,Flame Wave,Unleashes a wave of fire
+Hurricane Bow,Hurricane Arrow,Creates a storm of arrows
+Guardian Axe,Guardian Strike,Boosts defense and attack power
+Silent Blade,Silent Slash,Delivers a silent deadly strike
+Blade of Dawn,Dawn Strike,Unleashes the power of dawn
+Sage Staff,Sage's Wisdom,Boosts intelligence of allies
+Longbow,Long Shot,Fires arrows from a long distance
+Titan Axe,Titan Cleave,Delivers a massive cleave
+Assassin Dagger,Assassinate,Instantly kills low-health enemies
+Glacial Sword,Glacial Slash,Freezes enemies on hit
+Mystic Scepter,Mystic Pulse,Releases a pulse of mystic energy
+Ranger Bow,Multi-Shot,Fires multiple arrows
+Titan Axe,Titan Cleave,Delivers a massive cleave
+Silent Dagger,Silent Stab,Deals a silent deadly blow
+Celestial Sword,Star Strike,Unleashes star-powered energy
+Mystic Staff,Mystic Burst,Unleashes mystic energy
+Hunter's Bow,Hunter's Shot,Increases accuracy and damage
+Titan Axe,Titan Smash,Crushes enemies with a powerful blow
+Silent Blade,Silent Stab,Deals a silent deadly blow
+Radiant Sword,Radiant Slash,Unleashes radiant energy
+Sage Staff,Sage's Wisdom,Boosts intelligence of allies
+Quick Bow,Quick Shot,Fires arrows rapidly
+Warrior Axe,Warrior's Cleave,Delivers a powerful cleave
+Shade Dagger,Shade Slash,Deals extra damage from shadows
+Blazing Sword,Blazing Slash,Unleashes a fiery slash
+Arcane Staff,Arcane Burst,Unleashes an arcane explosion
+Storm Bow,Storm Arrow,Fires an arrow with the power of storm
+Guardian Axe,Guardian Smash,Crushes enemies with a powerful blow
+Phantom Dagger,Phantom Strike,Strikes with phantom energy
+Blade of Dawn,Dawn Strike,Unleashes the power of dawn
+Elder Staff,Elder's Wisdom,Boosts intelligence of allies
+Hunter Bow,Hunter's Precision,Increases accuracy
